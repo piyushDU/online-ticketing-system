@@ -21,3 +21,9 @@ This project is an online event ticketing system built with Laravel. It allows u
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/piyushDU/online-ticketing-system.git
+   cd online-event-ticketing-system
+   composer install
+   npm install
+   php artisan migrate
+   npm run dev
+   php artisan serve
